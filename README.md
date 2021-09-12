@@ -9,7 +9,7 @@
 # About Me
 
 - Taiwanese who used to live in Australia and now working in Japan.
-- Graduated MEng. at University of Technology Sydney.
+- Graduated MEng. at University of Technology Sydney (2018).
 
 # Programming Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>

@@ -6,10 +6,12 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=jack06215">
 </a> -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack06215&theme=buefy&layout=compact)
+
 # About Me
 
 - Taiwanese who used to live in Australia and now working in Japan.
-- Graduated MEng. at University of Technology Sydney (2018).
+- Graduated M.Eng. at [University of Technology Sydney](https://www.uts.edu.au/) (2018).
 
 # Programming Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>

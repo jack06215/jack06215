@@ -1,10 +1,15 @@
-<a>
+<!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jack06215&show_icons=true&include_all_commits=true&theme=algolia" />
-</a>
+</a> -->
 
 <!-- <a>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=jack06215">
 </a> -->
+
+# Hi, My name is Jack Cho
+
+- Taiwanese who used to live in Australia and now working in Japan.
+- Graduated MEng. at University of Technology Sydney.
 
 # Programming Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>

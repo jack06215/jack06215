@@ -11,15 +11,18 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
- -->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
+
 # Learning Progress
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code> ![Typescript](https://progress-bar.dev/60/?title=Learning&width=320 "Typescript")
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> ![Python](https://progress-bar.dev/90/?title=Comfortable&width=300 "Python")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code> ![OpenCV](https://progress-bar.dev/70/?title=Proficient%20&width=320 "OpenCV C++")
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code> ![OpenCV](https://progress-bar.dev/60/?title=Learning&width=320 "OpenCV")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code> ![React](https://progress-bar.dev/50/?title=Experienced&width=320 "React")
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code> ![Flutter](https://progress-bar.dev/30/?title=Learning&width=320 "Flutter")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code> ![TensorFlow](https://progress-bar.dev/50/?title=Experienced&width=320 "TensorFlow")
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code> ![GraphQL](https://progress-bar.dev/40/?title=Learning&width=320 "GraphQL")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code> ![GraphQL](https://progress-bar.dev/40/?title=Learning%20%20%20&width=320 "GraphQL")
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code> ![Flutter](https://progress-bar.dev/30/?title=Learning%20%20%20&width=320 "Flutter")
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"></code> ![Rust](https://progress-bar.dev/20/?title=Learning%20%20%20&width=320 "Rust")

@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack06215&theme=buefy&layout=compact)
 
 # About Me
-- Software Engineer
+I am a Software Engineer, experienced in Machine Learning and Fullstack development 👨‍💻
 - Taiwanese who used to live in Australia and now working in Japan.
 - Graduated M.Eng. at [University of Technology Sydney](https://www.uts.edu.au/) (2018).
 

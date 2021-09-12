@@ -6,7 +6,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=jack06215">
 </a> -->
 
-# Hi, My name is Jack Cho
+# About Me
 
 - Taiwanese who used to live in Australia and now working in Japan.
 - Graduated MEng. at University of Technology Sydney.

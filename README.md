@@ -7,8 +7,8 @@
 </a> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack06215&theme=buefy&layout=compact)
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nacho754)](https://github.com/nacho754/leetcode-stats)
-
+<!-- [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nacho754)](https://github.com/nacho754/leetcode-stats)
+ -->
 # About Me
 I am a Software Engineer, experienced in Machine Learning and Fullstack development 👨‍💻
 - Taiwanese who used to live in Australia and now working in Japan.

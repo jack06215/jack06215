@@ -13,6 +13,7 @@
 I am a Software Engineer, experienced in Machine Learning and Fullstack development 👨‍💻
 - Taiwanese who used to live in Australia and now working in Japan.
 - Graduated M.Eng. at [University of Technology Sydney](https://www.uts.edu.au/) (2018).
+- I am currently learning Flutter, GraphQL and React.
 
 # Programming Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>

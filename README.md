@@ -10,6 +10,7 @@
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nacho754)](https://github.com/nacho754/leetcode-stats)
 
 # About Me
+- Software engineer @ [QUANDO](https://www.quando.jp/)
 - Taiwanese who used to live in Australia for 10 years and now working in Japan.
 - Graduated M.Eng. at [University of Technology Sydney](https://www.uts.edu.au/) (2018).
 - I am currently learning Flutter, GraphQL and React.

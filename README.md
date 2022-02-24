@@ -24,14 +24,14 @@
 
 # Learning Progress
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code> ![OpenCV](https://progress-bar.dev/70/?title=Proficient%20&width=320 "OpenCV C++")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code> ![OpenCV](https://progress-bar.dev/70/?title=Experienced%20&width=320 "OpenCV C++")
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code> ![React](https://progress-bar.dev/50/?title=Experienced&width=320 "React")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code> ![React](https://progress-bar.dev/50/?title=Intermediate&width=320 "React")
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code> ![TensorFlow](https://progress-bar.dev/50/?title=Experienced&width=320 "TensorFlow")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code> ![TensorFlow](https://progress-bar.dev/50/?title=Intermediate&width=320 "TensorFlow")
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code> ![GraphQL](https://progress-bar.dev/40/?title=Learning%20%20%20&width=320 "GraphQL")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code> ![GraphQL](https://progress-bar.dev/40/?title=Intermediate%20%20%20&width=320 "GraphQL")
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code> ![Flutter](https://progress-bar.dev/30/?title=Learning%20%20%20&width=320 "Flutter")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code> ![Flutter](https://progress-bar.dev/30/?title=Intermediate%20%20%20&width=320 "Flutter")
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"></code> ![Rust](https://progress-bar.dev/20/?title=Learning%20%20%20&width=320 "Rust")
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"></code> ![Rust](https://progress-bar.dev/20/?title=Beginner%20%20%20&width=320 "Rust")

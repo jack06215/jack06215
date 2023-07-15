@@ -13,7 +13,7 @@
 - Software engineer @[QUANDO](https://www.quando.jp/company/)
 - Taiwanese who used to live in Australia for 10 years and now working in Japan.
 - Graduated M.Eng. at [University of Technology Sydney](https://www.uts.edu.au/) (2018).
-- I am currently learning Flutter, GraphQL and React.
+- I use Flutter for mobile, React for frontend, Spring Boot/GraphQL for backend, TensorFlow for machine learning.
 
 # Programming Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>

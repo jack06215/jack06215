@@ -1,14 +1,3 @@
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jack06215&show_icons=true&include_all_commits=true&theme=algolia" />
-</a>
-
-<!-- <a>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=jack06215">
-</a> -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack06215&theme=buefy&layout=compact)
-<!-- [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nacho754)](https://github.com/nacho754/leetcode-stats)
- -->
 # About Me
 - Software engineer @[QUANDO](https://www.quando.jp/company/)
 - Taiwanese who used to live in Australia for 10 years and now working in Japan.

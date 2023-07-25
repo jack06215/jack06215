@@ -1,16 +1,13 @@
 # About Me
-- Software engineer @[QUANDO](https://www.quando.jp/company/)
-- Taiwanese who used to live in Australia for 10 years and now working in Japan.
-- Graduated M.Eng. at [University of Technology Sydney](https://www.uts.edu.au/) (2018).
-- I use Flutter for mobile, React for frontend, Spring Boot/GraphQL for backend, TensorFlow for machine learning.
+- Software engineer at [QUANDO](https://www.quando.jp/company/)
+- Taiwanese who used to live in in Sydney and now working in Fukuoka.
+- Graduated B.Eng. and M.Eng. from [University of Technology Sydney](https://www.uts.edu.au/).
 
 # Programming Experience
 
-## 5+ years
+## [2, 5) years
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-
-## [2, 5) years
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>

@@ -5,11 +5,19 @@
 - I use Flutter for mobile, React for frontend, Spring Boot/GraphQL for backend, TensorFlow for machine learning.
 
 # Programming Skill
+
+## 5+ years
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+
+## 2 - 5 years
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+
+## less than 2 years
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"></code>
+
 
 # Framework / Tech Stack
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>

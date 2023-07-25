@@ -14,9 +14,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png"></code>
 
 ## [1, 2) years
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 
 
 # Tech Stack

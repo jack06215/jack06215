@@ -1,7 +1,8 @@
 # About Me
-- Backend engineer at [QUANDO](https://www.quando.jp/company/)
+- Software engineer at [QUANDO](https://www.quando.jp/company/)
+- Mainly in charge of backend development, sometimes 
 - Taiwanese who used to live in in Sydney and now working in Fukuoka.
-- Graduated B.Eng. and M.Eng. from [University of Technology Sydney](https://www.uts.edu.au/).
+- Graduated B.Eng. in Computer Systems and M.Eng. in Computer Vision Machine Learning from [University of Technology Sydney](https://www.uts.edu.au/).
 
 # Skills
 

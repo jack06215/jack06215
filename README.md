@@ -1,15 +1,15 @@
+# About Me
+- Software engineer at [QUANDO](https://www.quando.jp/company/).
+- Minaly working with React web app and Kotlin Spring Boot development.
+- Taiwanese who used to live in in Sydney and now working in Fukuoka.
+- Graduated B.Eng. in Computer Systems and M.Eng. in Computer Vision Machine Learning from [University of Technology Sydney](https://www.uts.edu.au/).
+
 # Stats
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack06215&theme=buefy&layout=compact)
 
 ## LeetCode
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nacho754)](https://github.com/nacho754/leetcode-stats)
-
-# About Me
-- Software engineer at [QUANDO](https://www.quando.jp/company/).
-- Minaly working with React web app and Kotlin Spring Boot development.
-- Taiwanese who used to live in in Sydney and now working in Fukuoka.
-- Graduated B.Eng. in Computer Systems and M.Eng. in Computer Vision Machine Learning from [University of Technology Sydney](https://www.uts.edu.au/).
 
 # Skills
 

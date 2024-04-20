@@ -1,8 +1,8 @@
 # About Me
-- Software engineer at [QUANDO](https://www.quando.jp/company/).
-- Minaly working with React web app and Kotlin Spring Boot development.
-- Taiwanese who used to live in in Sydney and now working in Fukuoka.
-- Graduated B.Eng. in Computer Systems and M.Eng. in Computer Vision Machine Learning from [University of Technology Sydney](https://www.uts.edu.au/).
+- Software engineer
+- Minaly working with TypeScript, Kotlin Spring Boot, Python, C++ application development
+- Taiwanese, used to live in in Sydney for 10+ years and currently working in Fukuoka
+- Graduated B.Eng. in Computer Systems and M.Eng. researh degree in computer vision at [University of Technology Sydney](https://www.uts.edu.au/)
 
 # Stats
 ## Top Languages

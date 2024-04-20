@@ -24,13 +24,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
-
-## [1, 2) years
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></code>

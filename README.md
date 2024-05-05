@@ -1,6 +1,7 @@
 <div class="profile-section">
   <img src="https://komarev.com/ghpvc/?username=jack06215&color=green" alt="GitHub Profile Views" height="25px">
 </div>
+
 # About Me
 - Software engineer
 - Minaly working with TypeScript, Kotlin Spring Boot, Python, C++ application development

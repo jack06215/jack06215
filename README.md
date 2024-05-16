@@ -3,9 +3,10 @@
 </div>
 
 # About Me
-- Software engineer
+- Software engineer at FLYWHEEL Inc.
 - Minaly working with TypeScript, Kotlin Spring Boot, Python, C++ application development
-- Taiwanese, used to live in in Sydney for 10+ years and currently working in Fukuoka
+- Taiwanese
+- Used to live in Sydney for a decade and currently working in Fukuoka
 - Graduated B.Eng. in Computer Systems and M.Eng. researh degree in computer vision at [University of Technology Sydney](https://www.uts.edu.au/)
 
 # Stats

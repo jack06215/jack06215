@@ -10,6 +10,8 @@
 - Graduated B.Eng. in Computer Systems and M.Eng. researh degree in computer vision at [University of Technology Sydney](https://www.uts.edu.au/)
 
 # Stats
+![Stats](https://raw.githubusercontent.com/jack06215/jack06215/bd30dbdefc933878fe5214b5c22516b58f8611b6/profile-3d-contrib/profile-gitblock.svg)
+
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack06215&theme=buefy&layout=compact)
 

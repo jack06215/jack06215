@@ -3,7 +3,7 @@
 </div>
 
 # About Me
-- Software engineer at FLYWHEEL Inc.
+- Software engineer
 - Minaly working with TypeScript, Kotlin Spring Boot, Python, C++ application development
 - Taiwanese
 - Used to live in Sydney for a decade and currently working in Tokyo

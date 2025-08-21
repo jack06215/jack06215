@@ -12,12 +12,6 @@
 # Stats
 ![Stats](https://github.com/jack06215/jack06215/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack06215&theme=buefy&layout=compact)
-
-## LeetCode
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nacho754)](https://github.com/nacho754/leetcode-stats)
-
 # Skills
 
 ## [2, 5) years
